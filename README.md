@@ -1,2 +1,3 @@
-This is a task 1 of CodeSoft Internship Project.
-the task is making the GuessTheNumberGame.
+This is a task  of CodeSoft Internship Project.
+Task1:the task is making the GuessTheNumberGame.
+Task2:the task is making studet grade calculator.
